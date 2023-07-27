@@ -12,8 +12,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BV0073194&theme=dark&hide_border=true"/>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=BV0073194&theme=react-dark&hide_border=true&area=true)
-
 <br/>
 <p align="center">
   <img align="center" width = "390" height="195px" src="https://github-readme-stats.vercel.app/api?username=BV0073194&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
